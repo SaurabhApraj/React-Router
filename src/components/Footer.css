@@ -1,0 +1,24 @@
+.footer {
+  width: 100%;
+  bottom: 0;
+  height: 50px;
+  background-color: #e7e7e7;
+}
+.footer__container {
+  width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+}
+.footer__logo p {
+  font-size: 1.3rem;
+  color: #444;
+  margin: 10px;
+  font-weight: 500;
+}
+.footer__copyright {
+  margin: 15px;
+}
+h5 {
+  color: #333;
+}

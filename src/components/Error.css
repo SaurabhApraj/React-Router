@@ -1,0 +1,9 @@
+.error__txt {
+  font-size: 10rem;
+  color: #6c63ff;
+  text-align: center;
+}
+.error__msg {
+  text-align: center;
+  font-size: 1.3rem;
+}
